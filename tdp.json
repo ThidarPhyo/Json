@@ -1,6 +1,6 @@
 {
 "country" : "japan",
-"data" : [
+"jan" : [
 {
 "date" : "Jan 1",
 "day" : "Tuesday",
@@ -11,6 +11,20 @@
 "date" : "Jan 4",
 "day" : "Friday",
 "name" : "Independence Day",
+"type" : "Public Holiday"
+},
+{
+"date" : "Jan 6",
+"day" : "Sunday",
+"name" : "Kayin New Year Day",
+"type" : "Public Holiday"
+}
+],
+"Feb" : [
+ {
+"date" : "Jan 1",
+"day" : "Tuesday",
+"name" : "New Year Holiday",
 "type" : "Public Holiday"
 }
 ]
