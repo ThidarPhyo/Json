@@ -1,0 +1,17 @@
+{
+"country" : "japan",
+"data" : [
+{
+"date" : "Jan 1",
+"day" : "Tuesday",
+"name" : "New Year Holiday",
+"type" : "Public Holiday"
+},
+{
+"date" : "Jan 4",
+"day" : "Friday",
+"name" : "Independence Day",
+"type" : "Public Holiday"
+}
+]
+}
